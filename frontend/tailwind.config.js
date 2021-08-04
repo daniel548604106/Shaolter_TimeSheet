@@ -8,7 +8,7 @@ module.exports = {
         logo: "#110662",
       },
       backgroundImage: (theme) => ({
-        login_background: "url('/public/login_background.jpg')",
+        login_background: "url('/img/login_background.jpg')",
       }),
     },
   },
